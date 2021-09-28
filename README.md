@@ -6,9 +6,9 @@ I have created Movies search Application using React
 ## Technology Used
 
 #### 1. `HTML`
-#### 1. `CSS`
-#### 1. `Java Script`
-#### 1. `API` (https://www.data.gov/developers/apis)
+#### 2. `CSS`
+#### 3. `Java Script`
+#### 4. `API` (https://www.data.gov/developers/apis)
 
 
 Step To Clone Repo
